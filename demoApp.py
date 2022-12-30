@@ -1,3 +1,5 @@
+from . import app
+from . import views
 from flask import *
 from demoAI import *
 from pyttsx3 import *
